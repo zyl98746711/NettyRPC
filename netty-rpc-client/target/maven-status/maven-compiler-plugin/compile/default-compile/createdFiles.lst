@@ -1,7 +1,0 @@
-com\nettyrpc\proxy\RpcProxyFactory.class
-com\nettyrpc\client\RpcClient$1.class
-com\nettyrpc\client\ConnectionPool.class
-com\nettyrpc\client\RpcClient.class
-com\nettyrpc\proxy\RpcProxyFactory$1.class
-com\nettyrpc\client\RpcClientHandler.class
-com\nettyrpc\proxy\RpcService.class

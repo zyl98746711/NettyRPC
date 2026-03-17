@@ -1,6 +1,0 @@
-com\nettyrpc\common\RpcResponse.class
-com\nettyrpc\common\ServiceRegistry.class
-com\nettyrpc\serialization\JacksonSerializer.class
-com\nettyrpc\common\RpcRequest.class
-com\nettyrpc\serialization\Serializer.class
-com\nettyrpc\serialization\SerializerFactory.class
