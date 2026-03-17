@@ -1,0 +1,6 @@
+D:\Code\Vibe\NettyRPC\netty-rpc-common\src\main\java\com\nettyrpc\common\RpcRequest.java
+D:\Code\Vibe\NettyRPC\netty-rpc-common\src\main\java\com\nettyrpc\serialization\Serializer.java
+D:\Code\Vibe\NettyRPC\netty-rpc-common\src\main\java\com\nettyrpc\common\RpcResponse.java
+D:\Code\Vibe\NettyRPC\netty-rpc-common\src\main\java\com\nettyrpc\serialization\JacksonSerializer.java
+D:\Code\Vibe\NettyRPC\netty-rpc-common\src\main\java\com\nettyrpc\common\ServiceRegistry.java
+D:\Code\Vibe\NettyRPC\netty-rpc-common\src\main\java\com\nettyrpc\serialization\SerializerFactory.java
